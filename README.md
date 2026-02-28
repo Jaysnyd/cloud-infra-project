@@ -4,7 +4,7 @@ A production-like cloud environment built on AWS using Infrastructure as Code (I
 
 ## Architecture
 
-![Architecture Diagram](architecture.jpg)
+![Architecture Diagram](architecture.png)
 
 ## What This Project Demonstrates
 
@@ -43,7 +43,7 @@ cloud-infra-project/
 ├── main.tf           # Core infrastructure definitions
 ├── variables.tf      # Reusable input variables
 ├── outputs.tf        # Output values (instance IP, ID)
-├── architecture.jpg  # Architecture diagram
+├── architecture.png  # Architecture diagram
 └── backup.sh         # Automated backup script
 ```
 

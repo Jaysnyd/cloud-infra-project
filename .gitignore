@@ -1,0 +1,9 @@
+# Terraform state files (contain sensitive infrastructure details)
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+
+# Credentials
+*.pem
+*.key

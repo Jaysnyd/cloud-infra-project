@@ -43,9 +43,8 @@ cloud-infra-project/
 ├── main.tf           # Core infrastructure definitions
 ├── variables.tf      # Reusable input variables
 ├── outputs.tf        # Output values (instance IP, ID)
-├── architecture.png  # Architecture diagram
-└── scripts/
-    └── backup.sh     # Automated backup script
+├── architecture.jpg  # Architecture diagram
+└── backup.sh         # Automated backup script
 ```
 
 ## How to Deploy
